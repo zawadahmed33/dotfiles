@@ -1,12 +1,13 @@
-bg = #282a33
-bg-dim = #4a4c59
+bg0 = #282a33
+bg1 = #525466
+bg2 = #787e99
+bg3 = #a0a8cc
 red = #e25294
 green = #94e252
 yellow = #e29452
 blue = #5294e2
 magenta = #9452e2
 cyan = #52e294
-grey = #c8d2cd
 fg = #e0e5eb
 warning = #f27835
 alert = #fc4138
