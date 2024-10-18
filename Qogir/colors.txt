@@ -1,5 +1,5 @@
 bg = #282a33
-bg-dim = #434655
+bg-dim = #4a4c59
 red = #e25294
 green = #94e252
 yellow = #e29452
@@ -7,5 +7,6 @@ blue = #5294e2
 magenta = #9452e2
 cyan = #52e294
 grey = #c8d2cd
-fg = #e6ebef
+fg = #e0e5eb
+warning = #f27835
 alert = #fc4138
