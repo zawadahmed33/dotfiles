@@ -1,9 +1,9 @@
 hi clear
 syntax reset
-let g:colors_name = "mycolorscheme"
+let g:colors_name = "qogir"
 set background=dark
 set t_Co=256
-hi Normal guifg=#d3dae3 ctermbg=NONE guibg=#282a33 gui=NONE
+hi Normal guifg=#e0e5eb ctermbg=NONE guibg=#282a33 gui=NONE
 
 hi DiffText guifg=#e25294 guibg=NONE
 hi ErrorMsg guifg=#e25294 guibg=NONE
@@ -59,18 +59,18 @@ hi Operator guifg=#52e294 guibg=NONE
 hi cssAttr guifg=#52e294 guibg=NONE
 
 
-hi Pmenu guifg=#d3dae3 guibg=#454545
+hi Pmenu guifg=#e0e5eb guibg=#454545
 hi SignColumn guibg=#282a33
-hi Title guifg=#d3dae3
-hi LineNr guifg=#5b728f guibg=#282a33
-hi NonText guifg=#c481ff guibg=#282a33
-hi Comment guifg=#c481ff gui=italic
-hi SpecialComment guifg=#c481ff gui=italic guibg=NONE
+hi Title guifg=#e0e5eb
+hi LineNr guifg=#647d9b guibg=#282a33
+hi NonText guifg=#a0a8cc guibg=#282a33
+hi Comment guifg=#a0a8cc gui=italic
+hi SpecialComment guifg=#a0a8cc gui=italic guibg=NONE
 hi CursorLine guibg=#454545
 hi TabLineFill gui=NONE guibg=#454545
-hi TabLine guifg=#5b728f guibg=#454545 gui=NONE
-hi StatusLine gui=bold guibg=#454545 guifg=#d3dae3
-hi StatusLineNC gui=NONE guibg=#282a33 guifg=#d3dae3
-hi Search guibg=#c481ff guifg=#d3dae3
+hi TabLine guifg=#647d9b guibg=#454545 gui=NONE
+hi StatusLine gui=bold guibg=#454545 guifg=#e0e5eb
+hi StatusLineNC gui=NONE guibg=#282a33 guifg=#e0e5eb
+hi Search guibg=#a0a8cc guifg=#e0e5eb
 hi VertSplit gui=NONE guifg=#454545 guibg=NONE
 hi Visual gui=NONE guibg=#454545
